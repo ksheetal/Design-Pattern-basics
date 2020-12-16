@@ -1,0 +1,3 @@
+public enum Role {
+    MANAGER,INTERN,SENIOR_SOFTWARE_ENGINEER;
+}
